@@ -76,6 +76,16 @@ Este projeto oferece uma abordagem prática para treinar um modelo YOLOv8 para d
 <img src="https://store.fiaformulae.com/on/demandware.static/-/Sites-navigation-catalog-FE-S9/default/dw8427c471/LogosTeams/LogoMahindra2.png" alt="Logo Mahindra" width="300"/><img src="https://avatars.githubusercontent.com/u/79948663?s=200&v=4" alt="Logo FIAP" width="200"/>
 
 
+Equipe E-fficency:
 
+Camila Feitosa RM: 558808
+
+Gabriel Matiolli RM: 558963
+
+Gustavo Berlanga RM: 555298
+
+Leonardo Taschin RM: 554583
+
+Vinicius Gardim RM: 556013
 
 
